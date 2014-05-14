@@ -1,0 +1,26 @@
+{
+  "name": "addrtozip",
+  "version": "0.0.0",
+  "description": "Web api for converting address to zipcode in taiwan",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/milly-chuang/addrtozip.git"
+  },
+  "keywords": [
+    "zipcode"
+  ],
+  "author": "Milly Chuang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/milly-chuang/addrtozip.git/issues"
+  },
+  "dependencies": {
+    "sqlite3": "~2.2.3",
+    "async": "~0.8.0",
+    "underscore": "~1.6.0"
+  }
+}
