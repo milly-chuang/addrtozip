@@ -1,6 +1,6 @@
 {
   "name": "addrtozip",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Web api for converting address to zipcode in taiwan",
   "main": "app.js",
   "scripts": {
