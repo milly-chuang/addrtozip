@@ -1,11 +1,14 @@
 {
   "name": "addrtozip",
   "version": "0.0.1",
-  "description": "Web api for converting address to zipcode in taiwan",
+  "description": "API for lookup zip code by address in Taiwan",
   "main": "lib/zipcode.js",
   "scripts": {
-    "test": "mocha -R spec" 
+    "test": "./node_modules/mocha/bin/mocha --reporter spec",
+    "updatedb": "node lib/build.js",
+    "postinstall": "npm run-script updatedb"
   },
+  "homepage": "https://github.com/milly-chuang/addrtozip",
   "repository": {
     "type": "git",
     "url": "git://github.com/milly-chuang/addrtozip.git"
@@ -22,5 +25,8 @@
     "sqlite3": "~2.2.3",
     "async": "~0.8.0",
     "underscore": "~1.6.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.19.0"
   }
 }
