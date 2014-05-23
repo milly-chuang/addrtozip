@@ -2,7 +2,7 @@
 /*global describe, it, before, beforeEach, after, afterEach */
 'use strict';
 
-var zipcode =  require('../lib/zipcode.js');
+var zipcode =  require('../');
 var assert = require('assert');
 var async = require('async');
 var datas = require('./datas.json');
