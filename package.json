@@ -1,7 +1,7 @@
 {
   "name": "addrtozip",
-  "version": "0.0.1",
-  "description": "API for lookup zip code by address in Taiwan",
+  "version": "1.0.2",
+  "description": "API for finding zipcode by address in Taiwan",
   "main": "lib/zipcode.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --reporter spec",
