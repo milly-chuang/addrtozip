@@ -1,0 +1,62 @@
+[
+  {
+    "areaName": "Zhongzheng Dist.",
+    "zh_tw": "中正區",
+    "belongCity": "Taipei City"
+  },
+  {
+    "areaName": "Datong Dist.",
+    "zh_tw": "大同區",
+    "belongCity": "Taipei City"
+  },
+  {
+    "areaName": "Zhongshan Dist.",
+    "zh_tw": "中山區",
+    "belongCity": "Taipei City"
+  },
+  {
+    "areaName": "Songshan Dist.",
+    "zh_tw": "松山區",
+    "belongCity": "Taipei City"
+  },
+  {
+    "areaName": "Da’an Dist.",
+    "zh_tw": "大安區",
+    "belongCity": "Taipei City"
+  },
+  {
+    "areaName": "Wanhua Dist.",
+    "zh_tw": "萬華區",
+    "belongCity": "Taipei City"
+  },
+  {
+    "areaName": "Xinyi Dist.",
+    "zh_tw": "信義區",
+    "belongCity": "Taipei City"
+  },
+  {
+    "areaName": "Shilin Dist.",
+    "zh_tw": "士林區",
+    "belongCity": "Taipei City"
+  },
+  {
+    "areaName": "Beitou Dist.",
+    "zh_tw": "北投區",
+    "belongCity": "Taipei City"
+  },
+  {
+    "areaName": "Neihu Dist.",
+    "zh_tw": "內湖區",
+    "belongCity": "Taipei City"
+  },
+  {
+    "areaName": "Nangang Dist.",
+    "zh_tw": "南港區",
+    "belongCity": "Taipei City"
+  },
+  {
+    "areaName": "Wenshan Dist.",
+    "zh_tw": "文山區",
+    "belongCity": "Taipei City"
+  }
+]
