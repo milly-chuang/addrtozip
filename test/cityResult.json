@@ -1,51 +1,7 @@
 [
   {
-    "cityName": "Taipei City",
-    "zh_tw": "臺北市"
-  },
-  {
-    "cityName": "Keelung City",
-    "zh_tw": "基隆市"
-  },
-  {
-    "cityName": "Lienchiang County",
-    "zh_tw": "連江縣"
-  },
-  {
-    "cityName": "New Taipei City",
-    "zh_tw": "新北市"
-  },
-  {
-    "cityName": "Yilan County",
-    "zh_tw": "宜蘭縣"
-  },
-  {
-    "cityName": "Hsinchu City",
-    "zh_tw": "新竹市"
-  },
-  {
-    "cityName": "Hsinchu County",
-    "zh_tw": "新竹縣"
-  },
-  {
-    "cityName": "Taoyuan County",
-    "zh_tw": "桃園縣"
-  },
-  {
-    "cityName": "Miaoli County",
-    "zh_tw": "苗栗縣"
-  },
-  {
-    "cityName": "Taichung City",
-    "zh_tw": "臺中市"
-  },
-  {
     "cityName": "Changhua County",
     "zh_tw": "彰化縣"
-  },
-  {
-    "cityName": "Nantou County",
-    "zh_tw": "南投縣"
   },
   {
     "cityName": "Chiayi City",
@@ -56,35 +12,79 @@
     "zh_tw": "嘉義縣"
   },
   {
-    "cityName": "Yunlin County",
-    "zh_tw": "雲林縣"
+    "cityName": "Hsinchu City",
+    "zh_tw": "新竹市"
   },
   {
-    "cityName": "Tainan City",
-    "zh_tw": "臺南市"
+    "cityName": "Hsinchu County",
+    "zh_tw": "新竹縣"
+  },
+  {
+    "cityName": "Hualien County",
+    "zh_tw": "花蓮縣"
   },
   {
     "cityName": "Kaohsiung City",
     "zh_tw": "高雄市"
   },
   {
-    "cityName": "Penghu County",
-    "zh_tw": "澎湖縣"
+    "cityName": "Keelung City",
+    "zh_tw": "基隆市"
   },
   {
     "cityName": "Kinmen County",
     "zh_tw": "金門縣"
   },
   {
+    "cityName": "Lienchiang County",
+    "zh_tw": "連江縣"
+  },
+  {
+    "cityName": "Miaoli County",
+    "zh_tw": "苗栗縣"
+  },
+  {
+    "cityName": "Nantou County",
+    "zh_tw": "南投縣"
+  },
+  {
+    "cityName": "New Taipei City",
+    "zh_tw": "新北市"
+  },
+  {
+    "cityName": "Penghu County",
+    "zh_tw": "澎湖縣"
+  },
+  {
     "cityName": "Pingtung County",
     "zh_tw": "屏東縣"
+  },
+  {
+    "cityName": "Taichung City",
+    "zh_tw": "臺中市"
+  },
+  {
+    "cityName": "Tainan City",
+    "zh_tw": "臺南市"
+  },
+  {
+    "cityName": "Taipei City",
+    "zh_tw": "臺北市"
   },
   {
     "cityName": "Taitung County",
     "zh_tw": "臺東縣"
   },
   {
-    "cityName": "Hualien County",
-    "zh_tw": "花蓮縣"
+    "cityName": "Taoyuan County",
+    "zh_tw": "桃園縣"
+  },
+  {
+    "cityName": "Yilan County",
+    "zh_tw": "宜蘭縣"
+  },
+  {
+    "cityName": "Yunlin County",
+    "zh_tw": "雲林縣"
   }
 ]
