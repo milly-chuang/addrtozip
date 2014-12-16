@@ -5,8 +5,7 @@
   "main": "lib/zipcode.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --reporter spec",
-    "updatedb": "node lib/build.js",
-    "postinstall": "npm run-script updatedb"
+    "updatedb": "node lib/build.js"
   },
   "homepage": "https://github.com/milly-chuang/addrtozip",
   "repository": {
